@@ -1,0 +1,112 @@
+{
+  "sessions": {
+    "0edca0e3-680b-4222-84f3-2ac648f0941b": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T06:00:58.696Z",
+      "end_timestamp": "2026-03-04T06:00:58.696Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:16Z"
+    },
+    "22251e5f-9d67-4c37-99d8-43fb00400a60": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T05:56:16.062Z",
+      "end_timestamp": "2026-03-04T05:56:16.062Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:17Z"
+    },
+    "27707765-4874-43a2-a93d-a97c32e7bafb": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T05:52:30.951Z",
+      "end_timestamp": "2026-03-04T05:52:30.951Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:17Z"
+    },
+    "5df64ce0-6a9f-4ce4-bfb0-393c075d9cf9": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T05:51:20.510Z",
+      "end_timestamp": "2026-03-04T05:51:20.510Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:17Z"
+    },
+    "6ff48105-805d-4151-ab0e-91d6ff312985": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T06:03:42.597Z",
+      "end_timestamp": "2026-03-04T06:03:42.597Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:17Z"
+    },
+    "ab6e6fce-7901-402b-a736-bc80a601069b": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T05:57:41.394Z",
+      "end_timestamp": "2026-03-04T05:57:41.394Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:15Z"
+    },
+    "b4fe07dd-8f58-45cb-8f0f-eb69ca34d068": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T06:06:44.084Z",
+      "end_timestamp": "2026-03-04T06:06:44.084Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:14Z"
+    },
+    "c685976d-7ab6-4c59-8554-15702e828b49": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T06:04:53.897Z",
+      "end_timestamp": "2026-03-04T06:04:53.897Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:13Z"
+    },
+    "d770cacc-154b-463d-b6bd-2aee0a83c213": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T05:53:52.378Z",
+      "end_timestamp": "2026-03-04T05:53:52.378Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:15Z"
+    },
+    "e10a2ea6-d249-4d10-ada9-50ae3b855b33": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T06:05:46.160Z",
+      "end_timestamp": "2026-03-04T06:05:46.160Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:17Z"
+    },
+    "e11c4ca6-a64d-4c37-9311-b38bab0581a1": {
+      "user_message_count": 0,
+      "agent_message_count": 0,
+      "start_timestamp": "2026-03-04T05:59:45.011Z",
+      "end_timestamp": "2026-03-04T05:59:45.011Z",
+      "markdown_size_bytes": 163,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:18Z"
+    },
+    "f23c2577-179f-4680-8938-3dc553581a97": {
+      "user_message_count": 1,
+      "agent_message_count": 3,
+      "start_timestamp": "2026-03-04T05:51:04.860Z",
+      "end_timestamp": "2026-03-04T05:51:19.651Z",
+      "markdown_size_bytes": 1557,
+      "provider": "claude-code",
+      "last_updated": "2026-03-30T10:33:14Z"
+    }
+  }
+}

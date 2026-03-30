@@ -90,5 +90,6 @@
     "**/src/locales/default/*.ts": "${filename} • locale",
     "**/index.*": "${dirname}/${filename}.${extname}"
   },
-  "utCopilot.common.testFramework": "vitest"
+  "utCopilot.common.testFramework": "vitest",
+  "specstory.cloudSync.enabled": "never"
 }
